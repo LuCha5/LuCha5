@@ -56,8 +56,3 @@ Scripts d'automatisation et write-ups de challenges Root-Me / TryHackMe.
 
 ### 📫 Me contacter
 - 📧 [luonin.chatenet@gmail.fr](mailto:luonin.chatenet@gmail.fr)
-
----
-<p align="center">
-  <i>"L'éducation est l'arme la plus puissante pour changer le monde... et le code est l'outil pour le construire."</i>
-</p>
