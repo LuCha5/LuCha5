@@ -42,8 +42,15 @@ Scripts d'automatisation et write-ups de challenges Root-Me / TryHackMe.
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuCha5&show_icons=true&theme=tokyonight" alt="Stats de Luonin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCha5&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuCha5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCha5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuCha5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
