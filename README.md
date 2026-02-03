@@ -10,7 +10,7 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🚀 **En recherche :**Stage de 4 mois (Avril 2026) et Alternance en Cybersécurité/Pentest (Septembre 2026).
+- 🚀 **En recherche :** Stage de 4 mois (Avril 2026) et Alternance en Cybersécurité/Pentest (Septembre 2026).
 - 🛡️ **Passionné de Cyber :** Je m'exerce quotidiennement sur **Root-Me** et **TryHackMe** pour maîtriser l'OWASP Top 10 et l'investigation réseau.
 - 🏗️ **Expérience :** J'ai travaillé chez **Atos** sur des outils de détection de secrets dans les dépôts Git.
 
@@ -29,11 +29,11 @@
 
 ### 📁 Projets Phares
 
-#### 🏀 [Site Vitrine Le Crès Basket](https://github.com/ton-pseudo/nom-du-repo)
+#### 🏀 [Site Vitrine Le Crès Basket](https://github.com/LuCha5/lcb)
 Réalisation en autonomie totale d'un site responsive pour le club de basket local. 
 - **Tech :** HTML, CSS, JS, Bootstrap.
 
-#### 🚩 [Challenges CTF & Scripts Cyber](https://github.com/ton-pseudo/nom-du-repo)
+#### 🚩 [Challenges CTF & Scripts Cyber](https://github.com/LuCha5/TryHackMe)
 Scripts d'automatisation et write-ups de challenges Root-Me / TryHackMe.
 - **Tech :** Python, Bash.
 
@@ -49,10 +49,7 @@ Scripts d'automatisation et write-ups de challenges Root-Me / TryHackMe.
 ---
 
 ### 📫 Me contacter
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil/)
-- 🌐 [Portfolio Personnel](https://luoninchatenet.fr)
-- 📧 [luonin.chatenet@epsi.fr](mailto:luonin.chatenet@gmail.fr)
+- 📧 [luonin.chatenet@gmail.fr](mailto:luonin.chatenet@gmail.fr)
 
 ---
 <p align="center">
