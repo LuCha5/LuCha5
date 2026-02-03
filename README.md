@@ -42,17 +42,16 @@ Scripts d'automatisation et write-ups de challenges Root-Me / TryHackMe.
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuCha5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuCha5&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
   
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCha5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages les plus utilisés" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuCha5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCha5&layout=compact&theme=tokyonight&langs_count=6" alt="Langages les plus utilisés" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCha5&theme=tokyonight" alt="Détails du profil" />
+</p>
 ---
 
 ### 📫 Me contacter
