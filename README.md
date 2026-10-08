@@ -61,15 +61,6 @@ Projet d'équipe en sprint de 4 jours ; je m'occupe de la partie sécurité.
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuCha5&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCha5&layout=compact&theme=tokyonight&langs_count=6" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ### 📫 Me contacter
 
 <p>
